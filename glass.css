@@ -359,6 +359,7 @@ max-width: 100%; /* スマホで表示が欠けないように */
 margin: 40px auto; /* 中央揃え */
 position: relative;
 margin-bottom: 80px;
+height: 380px;
 }
 
 .slide-show img {
